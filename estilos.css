@@ -1,0 +1,9 @@
+.menu{
+    background-color: transparent;
+}
+.fondo{
+    background-image: url("img/Ass.jpg");
+    background-size: cover;
+    background-position: top center;
+    padding: 20% 50% 20% 2%;
+}
